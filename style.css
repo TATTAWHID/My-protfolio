@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.my-name{
+    color: burlywood;
+}
+.kutta{
+    width: 40%;
+    float: left;
+    margin: 5%;
+   
+
+}
+.kutta img{
+    width: 100%;
+}
