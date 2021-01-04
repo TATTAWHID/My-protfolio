@@ -1,25 +1,35 @@
 body{
-    font-family: 'Roboto', sans-serif;
+ margin: 0px;
+      font-family: 'Roboto', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
 .my-name{
     color: burlywood;
 }
 .kutta{
     width: 40%;
-    float: left;
-    margin: 5%;
-   
-
+   float: left;
+    margin: 3%;
+    padding: 1%;   
 }
 .kutta img{
-    width: 100%;
+    width: 500px;
 }
-.jhata{
-    background-image: url("");
+.top{
+  
+    background-image: url("image/top-banner.png");
+    ;
+}
+section{
+    height: 500px; 
+    background-repeat: no-repeat;
+    
+}
+.link-button{
+    text-decoration: none;
 }
